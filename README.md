@@ -53,9 +53,9 @@ We welcome contributions! Whether you want to enhance gesture detection, add new
 
 - [Jay Kalbi](https://github.com/JayKalbi)
 
-- [Ronak Vekariya](https://github.com/Ronakvekariya)
-
 - [Vraj Prajapati](https://github.com/vraj3125)
+
+- Kartavya Patel
 
 ## License
 
