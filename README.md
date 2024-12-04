@@ -9,26 +9,26 @@
 
 - Hand Gesture Recognition: Detects and interprets hand gestures using OpenCV and MediaPipe.
 - Application Control:
-  -- Game Control: Use gestures to simulate directional key presses (up, down, left, right).
-  -- Presentation Control: Navigate slides (next/previous), display pointer, draw, and erase.
-  -- Gesture Play: Control playback (play, pause, skip, adjust volume), Audio across all OS.
-  -- Virtual Mouse: Move the cursor, click, and drag using gestures.
+  - Game Control: Use gestures to simulate directional key presses (up, down, left, right).
+  - Presentation Control: Navigate slides (next/previous), display pointer, draw, and erase.
+  - Gesture Play: Control playback (play, pause, skip, adjust volume), Audio across all OS.
+  - Virtual Mouse: Move the cursor, click, and drag using gestures.
 - Multi-Platform Support:
-  -- Jetson Nano Version: Optimized for hardware acceleration with OpenCV CUDA on JetPack 4.6.
-  -- Desktop/Laptop Version: Runs on Python and standard hardware with ease.
+  - Jetson Nano Version: Optimized for hardware acceleration with OpenCV CUDA on JetPack 4.6.
+  - Desktop/Laptop Version: Runs on Python and standard hardware with ease.
 
 ## Technologies Used
 
 - Programming Language: Python
 - Libraries:
-  -- OpenCV
-  -- MediaPipe
-  -- PyAutoGUI
-  -- cvzone
-  -- pynput
+  - OpenCV
+  - MediaPipe
+  - PyAutoGUI
+  - cvzone
+  - pynput
 - Hardware (Optional):
-  -- Jetson Nano (P3450) with CSI/USB camera
-  -- Raspberry Pi camera for RTSP streaming (for Jetson Nano setup)
+  - Jetson Nano (P3450) with CSI/USB camera
+  - Raspberry Pi camera for RTSP streaming (for Jetson Nano setup)
 
 ## Gesture Mapping
 
